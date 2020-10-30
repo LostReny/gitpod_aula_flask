@@ -1,0 +1,23 @@
+** Python, HTML, CSS **
+
+- cliente - servidor = comunicação de rede ( comunicação entre usuários e computadores de rede )
+- HTTP - hyper text transfer protocol - informa como o computador monta o pedido para devolver para o usuário no seu navegador
+- internet - cabo, porta, conexão = estrutura da rede
+- web  - contéudo da internet
+ 
+*toda navegação é feito por requisição e devolve uma resposta - um pedido, chega no servidor e o servidor responde o que vc quer 
+*cada botão é uma ação, e é devolvido um contéudo - requisição - deste modo existem vários protocolos para cada tipo de recebimento 
+- páginas web = http, e tem sempre que saber o IP ( pegar informação - sua identidade para mandar a resposta ) , a aba anônima só não guarda seu histórico e seu cookies, você não está disfarçado. 
+*máquina conversa com números - ainda não entende a semântica das palavras  
+-namecheap - domain barato 
+
+git
+https://www.gitpod.io/#<link_do Github>
+
+python nome do arquivo - ele roda no console
+
+
+
+git add app.py
+git commit -m "Meu primeiro commit"
+git push
