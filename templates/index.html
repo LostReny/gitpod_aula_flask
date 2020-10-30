@@ -5,7 +5,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello World!!</h1>
+    {% if nome_pessoa %}
+    <h1>Hello World!! {{nome_pessoa}}</h1>
+    {% else %}
+    <h1>Hello desconhecido</h1>
+    {% endif %}
     <p> agora escreve um paragrafo de texto</p>
     <ul>
     <li> item 1</li>
